@@ -22,7 +22,7 @@
 ---  
 
 <div align="center">  
-  <img src="https://damassets.autodesk.net/content/dam/autodesk/www/products/fusion-360/overview/fusion-social.jpg" width="1080" alt="Fusion 360 Screenshot"/>  
+  <img src="https://www.dexigner.com/images/article/24163/Autodesk_Fusion_360_02.jpg" width="1080" alt="Fusion 360 Screenshot"/>  
 </div>  
 
 <br>  
